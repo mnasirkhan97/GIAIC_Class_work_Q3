@@ -2,5 +2,7 @@ import cal
 
 def main():
     result = cal.add(4, 6)
-    print(result)
+    return result
+
 result = main()
+print(result)
