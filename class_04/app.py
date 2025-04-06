@@ -37,4 +37,5 @@ wallet(USD=100, PKR = 5000, EURO = 50)
 # ===> for mcqs visist panaversity github > advance python > colab
 # ==> for datatype checking use Just in type (mypy)
 # pip install mypy
+# pip install pytest
 # string casting
