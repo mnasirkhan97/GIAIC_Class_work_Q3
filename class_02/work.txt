@@ -1,0 +1,8 @@
+Topics:
+    1. LIST
+    2. TUPLES (Read only)
+    3. DICTIONARY
+
+Assignment: 
+    1. Unit convertor
+    2. password strength
