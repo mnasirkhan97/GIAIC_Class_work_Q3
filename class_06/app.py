@@ -76,3 +76,23 @@ for i in range(100, 120):
     print(i)
 
 
+#====> Error Handling 
+try:
+  req = requests.get("https://jsonplaceholder.typicode.com/posts")
+  print(req.json())
+except Exception as e:
+  print(e)
+  print("Error agya bhai saab")
+else:
+  print("Yahha tak pohnch gya") 
+
+
+
+try:
+    url = requests.get('https://jsonplaceholder.typicode.com/posts')
+    res = url.json()
+    print(res)
+except Exception as e:
+    print(e)
+finally:
+    print("Request Ended")
