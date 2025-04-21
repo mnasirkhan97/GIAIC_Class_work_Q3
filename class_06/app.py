@@ -65,5 +65,14 @@ print(student_info['courses'][-1])
 print(student_info['assignments']['assignTwo'])
 
 
+# ====> Loops
+for abcd in student_info.values():
+    print(abcd)
+
+for keys, values in student_info.items():
+    print(keys, values)
+
+for i in range(100, 120):
+    print(i)
 
 
