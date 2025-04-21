@@ -48,3 +48,22 @@ print(type(list_to_tuple))
 
 
 
+
+#====> Dictionary
+student_info = {
+    'roll_number': 183927,
+    'name': 'Ali Ahmed',
+    'courses': ['Docker', 'FastAPI','OpenAI Agents'],
+    'assignments': { 
+        'assignOne': 'completed',
+        'assignTwo': 'InProgress'
+    }
+}
+print(student_info)
+print(student_info['courses'][2])
+print(student_info['courses'][-1])
+print(student_info['assignments']['assignTwo'])
+
+
+
+
