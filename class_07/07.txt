@@ -1,3 +1,7 @@
 Class - blueprint / Template / Structure
 
 What is Constructor?
+
+
+
+Piaic = Giaic
