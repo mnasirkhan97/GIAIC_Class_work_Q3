@@ -1,0 +1,13 @@
+# ==> Pillar of OPP
+#  Inheritance
+#  Encapsulation
+#  Polymorphism
+#  Abstraction
+
+
+
+
+ Encapsulation
+    1. Public (By Default)
+    2. Protected
+    3. Private (Getter, Setter)
